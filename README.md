@@ -4,17 +4,17 @@ This repository demonstrates various Selenium WebDriver functionalities, includi
 
 ## Table of Contents 📚
 
-- [Setup](#setup)
-- [Usage](#usage)
-- [Examples](#examples)
-  - [Checkboxes](#checkboxes)
-  - [Radio Buttons](#radio-buttons)
-  - [Select Elements](#select-elements)
-  - [CSS Selectors](#css-selectors)
-  - [Tables](#tables)
-  - [Images](#images)
-  - [Remote WebDriver](#remote-webdriver)
-- [Contributing](#contributing)
+- [Setup](#setup-%EF%B8%8F)
+- [Usage](#usage-)
+- [Examples](#examples-)
+  - [Checkboxes](#checkboxes-%EF%B8%8F)
+  - [Radio Buttons](#radio-buttons-)
+  - [Select Elements](#select-elements-)
+  - [CSS Selectors](#css-selectors-)
+  - [Tables](#tables-)
+  - [Images](#images-%EF%B8%8F)
+  - [Remote WebDriver](#remote-webdriver-)
+- [Contributing](#contributing-)
 
 ## Setup ⚙️
 
